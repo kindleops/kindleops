@@ -1,10 +1,10 @@
-⚡ Ryan Kindle
+## ⚡ Ryan Kindle
 
 Founder • Investor • Empire Architect
 
 “Build empires, not companies. Execute relentlessly.”
 ⸻
-🚀 About Me
+# 🚀 About Me
 
 Serial entrepreneur building a global ecosystem of companies at the intersection of:
 
@@ -14,7 +14,7 @@ Serial entrepreneur building a global ecosystem of companies at the intersection
 - ✈️ Luxury & Lifestyle Tech Ventures  
 - 📊 Private Equity & Global Expansion
 ⸻
-## 🌍 Vision  
+# 🌍 Vision  
 I’m building a **global empire of companies** interconnected through AI, automation, and high-performance systems.  
 
 Fueled by:  
