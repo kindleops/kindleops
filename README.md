@@ -1,58 +1,41 @@
-✨ Ryan Kindle
+⚡ Ryan Kindle
 
 Founder • Investor • Empire Architect
 
-“Build empires, not companies. Create systems, not jobs. Execute relentlessly.”
+“Build empires, not companies. Execute relentlessly.”
 
 ⸻
 
 🚀 About Me
 
-I’m a serial entrepreneur and investor who closed my first real estate deal at 19. Today, I build AI-powered companies, global real estate systems, and elite ventures across multiple industries.
-
-My focus is creating cinematic, system-driven businesses at the intersection of:
-	•	🏠 Real Estate Automation & AI Deal Flow
-	•	🤖 SaaS & Enterprise Automation
-	•	🛡️ Secure Document Intelligence
-	•	✈️ Luxury & Lifestyle Tech Ventures
-	•	📊 Private Equity & Global Expansion
+Serial entrepreneur building a global ecosystem of companies at the intersection of:
+	•	🏙 Real Estate Automation & AI Deal Flow
+	•	📄 Secure Document Intelligence (SignPro.ai, Vaultir.ai)
+	•	🤖 AI Systems & Enterprise Automation (NextaOS, Flownetic.ai)
+	•	💎 Luxury, Lifestyle & Status Tech (Biluxr, Luxer Capital)
+	•	🌍 Private Equity & Global Expansion (Ascendrix Capital)
 
 ⸻
 
-🏗️ Active Ventures
-	•	Reivesti → The #1 source for nationwide wholesale real estate deals.
-	•	Prominent Cash Offer → Direct-to-seller acquisitions brand offering fast, transparent real estate transactions.
-	•	SignPro.ai → Cinematic AI-powered contract execution platform redefining digital signing.
-	•	Vaultir.ai → Ultra-secure AI-enhanced document intelligence & encrypted contract vault.
-	•	Flownetic.ai → AI automation cockpit unifying tasks, data, and workflows into cinematic flows.
-	•	Everline Asset Group → AI-powered outreach & communications firm, 10DLC-compliant deal flow.
-	•	Nexta Technology → A vertically integrated AI systems company (NextaOS: the Superhuman of CRM).
-	•	Influencive Marketing → Elite branding + media command for founders, investors, and operators.
+🔥 Ventures
+	•	Reivesti → AI-powered nationwide real estate acquisitions & deal flow.
+	•	SignPro.ai → Cinematic AI document execution.
+	•	Vaultir.ai → Secure blockchain-encrypted doc intelligence.
+	•	Flownetic.ai → Next-gen automation cockpit.
+	•	Everline Asset Group → Private equity acquisitions.
+	•	Biluxr → Luxury concierge + black card.
 
 ⸻
 
-🛠️ In Development
-	•	Ascendrix Capital → Private equity firm scaling undervalued companies with creative finance + AI.
-	•	Biluxr → World’s most advanced luxury concierge & lifestyle black card.
-	•	Compflow.ai → Instant property comps & smart valuations at scale.
-	•	CallIntel.ai → Voice AI platform for call summaries, deal intelligence, and sentiment scoring.
-	•	StratLayer.ai → AI-powered operator control hub for multi-venture execution.
-	•	Luxer Capital & Luxer Pay → Boutique investment + fintech ecosystem for high-status living.
+🧭 Vision
 
-🌍 Vision
-I’m building a global empire of companies interconnected through AI, automation, and high-performance systems.
-
-Fueled by:
-	•	⚡ Relentless execution
-	•	🙏 Faith & discipline
-	•	🌍 A mission to create lasting global impact
+To architect a global empire interconnected through AI, automation, and high-performance systems.
 
 ⸻
 
-📫 Connect
-	•	LinkedIn → linkedin.com/in/ryankindle
-	•	Crunchbase → crunchbase.com/person/ryan-kindle
-	•	Email → ryan.kindle16@gmail.com
+🌐 Connect
+
+LinkedIn • Crunchbase • Email
 
 ![AI](https://img.shields.io/badge/AI-Empire-blueviolet)  
 ![Real Estate](https://img.shields.io/badge/Real%20Estate-Global-green)  
