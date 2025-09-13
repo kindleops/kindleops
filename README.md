@@ -3,24 +3,16 @@
 Founder • Investor • Empire Architect
 
 “Build empires, not companies. Execute relentlessly.”
-
 ⸻
+🚀 About Me
 
-## 🚀 About Me  
-I’m a serial entrepreneur and investor who closed my first real estate deal at 19. Today, I build **AI-powered companies, global real estate systems, and elite ventures** across multiple industries.  
+Serial entrepreneur building a global ecosystem of companies at the intersection of:
 
-My focus is creating **cinematic, system-driven businesses** at the intersection of:  
 - 🏠 Real Estate Automation & AI Deal Flow  
 - 🤖 SaaS & Enterprise Automation  
 - 🛡️ Secure Document Intelligence  
 - ✈️ Luxury & Lifestyle Tech Ventures  
 - 📊 Private Equity & Global Expansion
-⸻
-
-🧭 Vision
-
-To architect a global empire interconnected through AI, automation, and high-performance systems.
-
 ⸻
 ## 🌍 Vision  
 I’m building a **global empire of companies** interconnected through AI, automation, and high-performance systems.  
@@ -29,7 +21,7 @@ Fueled by:
 - ⚡ Relentless execution  
 - 🙏 Faith & discipline  
 - 🌍 A mission to create lasting global impact
-
+⸻
 ## 📫 Connect  
 - LinkedIn → [linkedin.com/in/ryankindle](#)  
 - Crunchbase → [crunchbase.com/person/ryan-kindle](#)  
