@@ -6,25 +6,15 @@ Founder • Investor • Empire Architect
 
 ⸻
 
-🚀 About Me
+## 🚀 About Me  
+I’m a serial entrepreneur and investor who closed my first real estate deal at 19. Today, I build **AI-powered companies, global real estate systems, and elite ventures** across multiple industries.  
 
-Serial entrepreneur building a global ecosystem of companies at the intersection of:
-	•	🏙 Real Estate Automation & AI Deal Flow
-	•	📄 Secure Document Intelligence (SignPro.ai, Vaultir.ai)
-	•	🤖 AI Systems & Enterprise Automation (NextaOS, Flownetic.ai)
-	•	💎 Luxury, Lifestyle & Status Tech (Biluxr, Luxer Capital)
-	•	🌍 Private Equity & Global Expansion (Ascendrix Capital)
-
-⸻
-
-🔥 Ventures
-	•	Reivesti → AI-powered nationwide real estate acquisitions & deal flow.
-	•	SignPro.ai → Cinematic AI document execution.
-	•	Vaultir.ai → Secure blockchain-encrypted doc intelligence.
-	•	Flownetic.ai → Next-gen automation cockpit.
-	•	Everline Asset Group → Private equity acquisitions.
-	•	Biluxr → Luxury concierge + black card.
-
+My focus is creating **cinematic, system-driven businesses** at the intersection of:  
+- 🏠 Real Estate Automation & AI Deal Flow  
+- 🤖 SaaS & Enterprise Automation  
+- 🛡️ Secure Document Intelligence  
+- ✈️ Luxury & Lifestyle Tech Ventures  
+- 📊 Private Equity & Global Expansion
 ⸻
 
 🧭 Vision
@@ -32,10 +22,18 @@ Serial entrepreneur building a global ecosystem of companies at the intersection
 To architect a global empire interconnected through AI, automation, and high-performance systems.
 
 ⸻
+## 🌍 Vision  
+I’m building a **global empire of companies** interconnected through AI, automation, and high-performance systems.  
 
-🌐 Connect
+Fueled by:  
+- ⚡ Relentless execution  
+- 🙏 Faith & discipline  
+- 🌍 A mission to create lasting global impact
 
-LinkedIn • Crunchbase • Email
+## 📫 Connect  
+- LinkedIn → [linkedin.com/in/ryankindle](#)  
+- Crunchbase → [crunchbase.com/person/ryan-kindle](#)  
+- Email → ryan.kindle16@gmail.com
 
 ![AI](https://img.shields.io/badge/AI-Empire-blueviolet)  
 ![Real Estate](https://img.shields.io/badge/Real%20Estate-Global-green)  
