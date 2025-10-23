@@ -68,7 +68,7 @@ I’m **Ryan Kindle**, a founder, real estate investor, and empire architect bui
 
 ### 💬 Connect
 <div align="center">
-  <a href="https://twitter.com/ryankindle"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://x.com/reivestor"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://linkedin.com/in/ryankindle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:founder@nextaos.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
